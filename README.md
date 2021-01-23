@@ -1,6 +1,6 @@
 # Advent of Code 2020
 
-My solutions to the Advent of Code 2020 https://adventofcode.com/2020
+Solutions to the Advent of Code 2020 https://adventofcode.com/2020
 
 - [x] Day 1
 - [x] Day 2
@@ -10,5 +10,5 @@ My solutions to the Advent of Code 2020 https://adventofcode.com/2020
 - [x] Day 6
 - [x] Day 7
 - [x] Day 8
-- [ ] Day 9
+- [x] Day 9
 - [ ] Day 10
