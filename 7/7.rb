@@ -30,7 +30,7 @@ def make_edges(input)
 end
 
 # Find nodes that point to node directly or indirectly.
-# Equivalent of findind the ancestors of a node in a tree
+# Equivalent of finding the ancestors of a node in a tree
 def nodes_to(node, edges, bag=[])
   edges.each do |e|
     if e[:to] == node && !bag.include?(e[:from])
